@@ -4,7 +4,7 @@ This project is an exploratory data analysis (EDA) of video game sales.
 
 The dataset is downloaded from <https://www.kaggle.com/datasets/gregorut/videogamesales>
 
-This folder contains 2 pdf files:
+This folder contains 2 files:
 
 - "video_game_sales.html" - Project with descriptions and codes in HTML format\
 To view the HTML file, click here <https://yongfx.github.io/portfolio/002_Video_Game_Sales/video_game_sales.html>
