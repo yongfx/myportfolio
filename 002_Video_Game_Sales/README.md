@@ -6,7 +6,8 @@ The dataset is downloaded from <https://www.kaggle.com/datasets/gregorut/videoga
 
 This folder contains 2 pdf files:
 
-- "video_game_sales.html" - Project with descriptions and codes in HTML format
+- "video_game_sales.html" - Project with descriptions and codes in HTML format\
+To view the HTML file, click here <https://yongfx.github.io/portfolio/002_Video_Game_Sales/video_game_sales.html>
 - 'video_game_sales.Rmd" - Project with descriptions and codes in RMarkdown format
 
 This project is done by using the R language.
