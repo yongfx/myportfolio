@@ -3,5 +3,5 @@
 This repository contains all of my data analytics projects.
 
 Table of Content:
-- 001_Cyclistic_bike_share
-- 002_Video_Game_Sales
+- [001_Cyclistic_bike_share](001_Cyclistic_bike_share.md)
+- [002_Video_Game_Sales](002_Video_Game_Sales.md)
